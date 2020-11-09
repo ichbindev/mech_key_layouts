@@ -1,0 +1,1 @@
+This is a pretty standard layout for the ctrl, a full sized ten-keyless keyboard. The function key has been moved and the alt/os keys swapped for the standard MacOS layout. The print screen button has been repurposed to switch back and forth between QWERTY and Colemak.
