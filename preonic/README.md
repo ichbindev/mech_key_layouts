@@ -1,0 +1,1 @@
+The Preonic is a 60 key (12 x 5) keyboard. I'm experimenting with moving the outer keys to the middle to let my thumbs do more work than my pinkies. This also spreads out the home row, which is more comfortable to type on, especially with such a small board.
