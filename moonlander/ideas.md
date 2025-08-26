@@ -1,0 +1,1 @@
+- euro symbol on layer 2/3 €
